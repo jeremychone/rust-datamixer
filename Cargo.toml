@@ -1,0 +1,19 @@
+[package]
+name = "datamixer"
+version = "0.0.1"
+edition = "2021"
+authors = ["Jeremy Chone <jeremy.chone@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Datamixer client library (upcoming)"
+categories = ["science", "data-structures"]
+keywords = [
+	"dataframe",
+	"data-engineering",
+	"data-analytics",
+	"polars",
+]
+homepage = "https://github.com/jeremychone/rust-datamixer"
+repository = "https://github.com/jeremychone/rust-datamixer"
+
+[dependencies]
+
